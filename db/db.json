@@ -2,11 +2,13 @@
     "notes": [
         {
             "title":"Test Title",
-            "text":"Test text"
+            "text":"Test text",
+            "id": "0"
         },
         {
             "title": "Reminders",
-            "text": "here are the reminders that you need to remember"
+            "text": "here are the reminders that you need to remember",
+            "id": "1"
         }
     ]
 }
