@@ -1,6 +1,11 @@
 {
   "notes": [
     {
+      "title": "note 2",
+      "text": "note 2 text example",
+      "id": "lkj0987"
+    },
+    {
       "title": "note 3",
       "text": "note 3 text example",
       "id": "poiu653"
