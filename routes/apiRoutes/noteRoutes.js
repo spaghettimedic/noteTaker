@@ -1,14 +1,11 @@
-const { filterByQuery, findById, createNewNote, validateNote, deleteNote } = require('../../lib/notes');
+const { findById, createNewNote, validateNote, deleteNote } = require('../../lib/notes');
 const { notes } = require('../../db/db.json');
 const router = require('express').Router();
 const uniqid = require('uniqid');
 
 router.get('/notes', (req, res) => {
-  let results = notes;
-  if (req.query) {
-    results = filterByQuery(req.query, results);
-  }
-  res.json(results);
+  const result = notes;
+  res.json(result);
 });
 
 router.get('/notes/:id', (req, res) => {
