@@ -1,19 +1,17 @@
-{
-  "notes": [
-    {
-      "title": "note 3",
-      "text": "this is note 3",
-      "id": "6nwg461w8kxb26b8d"
-    },
-    {
-      "title": "note 4",
-      "text": "this is note 4",
-      "id": "6nwg461w8kxb26fad"
-    },
-    {
-      "title": "note 5",
-      "text": "this is note 5",
-      "id": "6nwg461w8kxb26jm5"
-    }
-  ]
-}
+[
+  {
+    "title": "note 3",
+    "text": "this is note 3",
+    "id": "6nwg461w8kxb26b8d"
+  },
+  {
+    "title": "note 4",
+    "text": "this is note 4",
+    "id": "6nwg461w8kxb26fad"
+  },
+  {
+    "title": "note 5",
+    "text": "this is note 5",
+    "id": "6nwg461w8kxb26jm5"
+  }
+]
